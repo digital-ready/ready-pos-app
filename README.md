@@ -1,2 +1,2 @@
-# ready-pos-apps
+# ready-pos-app
 Ready POS - Application
